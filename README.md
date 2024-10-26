@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m Dev Arora
-🖥️ I’ve previously worked as Research Intern at Samsung Research Institute Bangalore
-👨‍💻 I've worked across multiple tech stacks and domains including Frontend, Backend, Mobile, DS/ML
-💞️ I’m looking to collaborate on open source projects
-📫 If you have any interesting project idea and need help building it, shoot me an email at devro3014@gmail.com
+👋 Hi, I’m **Dev Arora**
+
+- 🖥️ Previously worked as a **Research Intern** at **Samsung Research Institute, Bangalore**
+- 👨‍💻 Experienced in multiple tech stacks and domains, including **Frontend**, **Backend**, **Mobile**, and **Data Science/Machine Learning**
+- 💞️ Looking to collaborate on **open-source projects**
+- 📫 Have an interesting project idea? Need help building it? **Email me** at [devro3014@gmail.com](mailto:devro3014@gmail.com)
+
